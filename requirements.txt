@@ -7,7 +7,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
-nccabe==0.6.1
 pylint==2.6.0
 six==1.15.0
 toml==0.10.2
